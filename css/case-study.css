@@ -38,6 +38,14 @@
     margin-top: 2rem;
 }
 
+.backButton{
+    padding: 2rem;
+    font-size: 1.1rem;
+}
+
+.main{
+    border: 1px solid #424242;
+}
 /* .container{
     margin: 16px;
 } */
