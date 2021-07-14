@@ -182,7 +182,7 @@ body {
   margin: 0rem; 
 }
 .skills{
-  background-image: url(/images/bg.png);
+  background-image: url(./images/bg.png);
   /* background-position: Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
