@@ -23,10 +23,21 @@
     margin-bottom: 2rem;
 }
 
-.icons{
+.introduction{
+    padding: 0rem;
+}
+
+.timeline{
     align-items: center;
     justify-content: center;
     padding: 0rem;   
+}
+
+.icons{
+    align-items: center;
+    justify-content: center;
+    padding: 0rem;
+    margin-top: 2rem;  
 }
 
 .iconsCard{
