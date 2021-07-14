@@ -163,9 +163,6 @@ body {
   color: #424242;
   padding-right:1rem;
   word-spacing: 2rem;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
   /* background-color: #FFE1EC; */
 }
 
